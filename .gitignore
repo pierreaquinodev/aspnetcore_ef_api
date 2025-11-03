@@ -1,0 +1,41 @@
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# ASP.NET logs and temp files
+logs/
+*.log
+*.tlog
+
+# Configuration files with secrets
+appsettings.Development.json
+secrets.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Publish output
+wwwroot/lib/
+publish/
